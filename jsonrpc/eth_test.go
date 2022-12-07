@@ -9,7 +9,6 @@ import (
 
 	"github.com/cloudwalk/ethgo"
 	"github.com/cloudwalk/ethgo/testutil"
-	"github.com/cloudwalk/ethgo/wallet"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
